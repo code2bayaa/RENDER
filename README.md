@@ -59,7 +59,7 @@ To manage complexity and align the code with business rules, the project follows
 1.  **Clone the repository:**
 
     ```bash
-    https://github.com/erikyryang/multi-tenant-api.git
+    https://github.com/code2bayaa/RENDER.git
     cd multi-tenant-api
     ```
 
